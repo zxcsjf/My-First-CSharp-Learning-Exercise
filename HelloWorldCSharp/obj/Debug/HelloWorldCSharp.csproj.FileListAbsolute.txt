@@ -1,0 +1,8 @@
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.exe.config
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.exe
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.pdb
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csproj.AssemblyReference.cache
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csproj.CoreCompileInputs.cache
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.exe
+C:\Users\JifeiShan\source\repos\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.pdb
